@@ -34,6 +34,8 @@ func calculateTroco(total, pago float64) {
 	}
 }
 
+//teste
+
 func main() {
 	var total, pago float64
 

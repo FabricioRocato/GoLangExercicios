@@ -20,6 +20,7 @@ func fibonacci(n int) []int {
 	return sequence
 }
 
+// teste
 func main() {
 	var num int
 	fmt.Print("Digite um número: ")

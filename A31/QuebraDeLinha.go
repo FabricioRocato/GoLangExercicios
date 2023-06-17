@@ -25,6 +25,8 @@ func breakLines(frase string, colunas int) []string {
 	return linhas
 }
 
+//teste
+
 func main() {
 	reader := bufio.NewReader(os.Stdin)
 

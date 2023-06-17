@@ -9,6 +9,7 @@ func main() {
 	var texto string
 	fmt.Print("Digite o texto: ")
 	fmt.Scanln(&texto)
+	//teste
 
 	texto = strings.ReplaceAll(texto, " ", "")
 

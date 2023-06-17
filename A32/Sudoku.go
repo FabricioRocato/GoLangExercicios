@@ -51,6 +51,8 @@ func validarSudoku(tabuleiro [][]int) (bool, [][]bool) {
 	return true, nil
 }
 
+//teste
+
 func main() {
 	tabuleiro := make([][]int, 9)
 	for i := 0; i < 9; i++ {

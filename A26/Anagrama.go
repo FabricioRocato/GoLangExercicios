@@ -13,7 +13,6 @@ func main() {
 	fmt.Print("Digite a segunda string: ")
 	fmt.Scanln(&str2)
 
-	// Remover espaços em branco das strings
 	str1 = strings.ReplaceAll(str1, " ", "")
 	str2 = strings.ReplaceAll(str2, " ", "")
 

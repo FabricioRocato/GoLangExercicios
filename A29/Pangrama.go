@@ -26,6 +26,8 @@ func isPangram(frase string) bool {
 	return true
 }
 
+//teste
+
 func main() {
 	var frase string
 	fmt.Print("Digite uma frase: ")
